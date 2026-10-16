@@ -14,7 +14,7 @@ let package = Package(
     dependencies: [
         .package(
             url: "https://github.com/voyagegroup/FluctSDK-iOS-Swift-Package.git",
-            exact: "0.0.1"
+            exact: "6.44.7"
         ),
         .package(
             url: "https://github.com/ly-ads-network/swift-package-manager-fivead.git",
